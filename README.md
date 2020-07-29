@@ -28,3 +28,6 @@ dotnet build
 ```bash
 dotnet sonarscanner end
 ```
+
+## Reference
+[net-core-code-quality-with-coverlet-and-sonarqube](https://medium.com/tribalscale/net-core-code-quality-with-coverlet-and-sonarqube-part-2-141617f83d6f)
